@@ -1,0 +1,7 @@
+#pragma once
+struct ColorData {
+	int red;
+	int green;
+	int blue;
+	int alpha;
+};
