@@ -291,5 +291,6 @@
       <Filter>Common\Sound</Filter>
     </ClInclude>
     <ClInclude Include="Score.h" />
+    <ClInclude Include="Vector2Int.h" />
   </ItemGroup>
 </Project>

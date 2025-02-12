@@ -1,6 +1,7 @@
 ﻿#pragma once
 #include "Vertex.h"
 #include "Matrix3x3.h"
+#include "Vector2Int.h"
 
 /// <summary>
 /// 画像を描画する

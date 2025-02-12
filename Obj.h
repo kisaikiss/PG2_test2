@@ -1,6 +1,7 @@
 ﻿#pragma once
 #include "Matrix3x3.h"
 #include "Vector2.h"
+#include "Vector2Int.h"
 #include "Vertex.h"
 #include "ColorData.h"
 #include <Novice.h>
